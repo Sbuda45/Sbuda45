@@ -41,18 +41,6 @@
 
 ---
 
-<h3 align="center">GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/304485/screenshots/3301972/media/d82e503513ffaed91794ad86c01cd38d.gif" width="75" height="60"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sbuda45&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbuda45&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
 
 <h3 align="center">Connect with Me:</h3>
 
