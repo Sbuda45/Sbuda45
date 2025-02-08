@@ -13,7 +13,7 @@
 - 💬 Ask me about **Java or C++**
 - 📫 Reach me at **sntuli4246@gmail.com**
 - 🎮 Fun fact: **I think I can make it as a Game Developer**
-- 🚀 Always exploring new technologies!
+- 🚀 Always exploring new technologies & trends!
 
 ---
 
