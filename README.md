@@ -9,7 +9,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Cisco Cybersecurity Analyst**
+- 🌱 I’m currently learning **Cloud Computing**
 - 💬 Ask me about **Java or C++**
 - 📫 Reach me at **sntuli4246@gmail.com**
 - 🎮 Fun fact: **I think I can make it as a Game Developer**
